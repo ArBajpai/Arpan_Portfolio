@@ -1,0 +1,26 @@
+[
+  {
+    "title": "MERN E-Commerce App",
+    "imageSrc": "projects/Project1.png",
+    "description": "Created a complete e-commerce mobile application using the MERN stack and Redux Toolkit.",
+    "skills": ["ReactNative", "Express", "MongoDB"],
+    "demo": "https://github.com/ArBajpai/Ecommerce-mernstack-frontend",
+    "source": "https://github.com/ArBajpai/Ecommerce-mernstack-server"
+  },
+  {
+    "title": "JobPedia",
+    "imageSrc": "projects/Project2.png",
+    "description": "Created a complete Jobfinder Web-Application using MERN stack.",
+    "skills": ["React", "Express", "NodeJS", "MongoDB","TailwindCSS"],
+    "demo": "https://job-pedia.netlify.app/user-auth",
+    "source": "https://github.com/ArBajpai/Job_Pedia-Frontend-"
+  },
+  {
+    "title": "CryptoTown",
+    "imageSrc": "projects/Project3.png",
+    "description": "Created a dynamic Crypto-Screener Application using ReactJS framework.",
+    "skills": ["ReactJS", "TailwindCSS", "CoinGecko API"],
+    "demo": "https://cryptotown.netlify.app/",
+    "source": "https://github.com/ArBajpai/CryptoApp"
+  }
+]
